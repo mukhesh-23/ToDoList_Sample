@@ -1,3 +1,12 @@
+Here's the smaple UI of the well-made To-Do List Application using React js   
+https://to-do-list-sample-bay.vercel.app/
+
+Features:
+- Adding Task
+- Adding Time and Date for that Task
+- Setting Remainder for the Task
+- Edit or Delete the Task 
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
